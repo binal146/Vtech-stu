@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255644132869",
+    "project_id": "demoprojects-4cbb9",
+    "storage_bucket": "demoprojects-4cbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255644132869:android:d6fb7f68dba7cfc995de6c",
+        "android_client_info": {
+          "package_name": "com.vteach.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloMvvGo6Qs4hX2cefaT8RAkPQ9zLoJeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

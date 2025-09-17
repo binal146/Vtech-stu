@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="more_black" data-name="more black" transform="translate(-494 -933)">
+    <rect id="Rectangle_17542" data-name="Rectangle 17542" width="30" height="30" transform="translate(494 933)" fill="none"/>
+    <g id="menu-burger" transform="translate(500.813 935.27)">
+      <rect id="Rectangle_17485" data-name="Rectangle 17485" width="17" height="2" rx="1" transform="translate(-0.313 11.73)" fill="#919191"/>
+      <rect id="Rectangle_17486" data-name="Rectangle 17486" width="17" height="2" rx="1" transform="translate(-0.313 3.73)" fill="#919191"/>
+      <rect id="Rectangle_17487" data-name="Rectangle 17487" width="17" height="2" rx="1" transform="translate(-0.313 19.73)" fill="#919191"/>
+    </g>
+  </g>
+</svg>

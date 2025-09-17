@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="radio_on" data-name="radio on" transform="translate(-0.5)">
+    <g id="Ellipse_173" data-name="Ellipse 173" transform="translate(0.5)" fill="#fff" stroke="#cbd6d5" stroke-width="1">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_182" data-name="Ellipse 182" cx="7" cy="7" r="7" transform="translate(7.5 7)" fill="#00baa3"/>
+  </g>
+</svg>

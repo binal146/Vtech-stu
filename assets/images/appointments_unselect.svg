@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Appointments_black" data-name="Appointments black" transform="translate(-494 -933)">
+    <rect id="Rectangle_17542" data-name="Rectangle 17542" width="30" height="30" transform="translate(494 933)" fill="none"/>
+    <path id="calendar-lines" d="M19,2H18V1a1,1,0,0,0-2,0V2H11V1A1,1,0,0,0,9,1V2H8A5.006,5.006,0,0,0,3,7V19a5.006,5.006,0,0,0,5,5H19a5.006,5.006,0,0,0,5-5V7A5.006,5.006,0,0,0,19,2ZM8,4H19a3,3,0,0,1,3,3V8H5V7A3,3,0,0,1,8,4ZM19,22H8a3,3,0,0,1-3-3V10H22v9A3,3,0,0,1,19,22Zm0-8a1,1,0,0,1-1,1H9a1,1,0,0,1,0-2h9A1,1,0,0,1,19,14Zm-7,4a1,1,0,0,1-1,1H9a1,1,0,0,1,0-2h2A1,1,0,0,1,12,18Z" transform="translate(495.5 936)" fill="#919191" stroke="#fff" stroke-width="0.5"/>
+  </g>
+</svg>
